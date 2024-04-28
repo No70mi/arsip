@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: 'https://lihatlangsung.noromi.web.id/1:/Lambang%20dan%20Logo/Lambang%20dan%20Logo%20Arsip/Lambang%20Arsip%20Beraksen.png',
+  icon: 'https://lihatlangsung.noromi.web.id/1:/Lambang%20dan%20Logo/Favicon/Arsip.png',
 
   // Prefix for KV Storage
   kvPrefix: process.env.KV_PREFIX || '',
