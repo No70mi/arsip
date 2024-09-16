@@ -7,7 +7,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta name="description" content="Arsip Noromi" />
-          <link rel="icon" href="https://lihatlangsung.noromi.web.id/1:/Lambang%20dan%20Logo/Favicon/Arsip.png" />
+          <link rel="icon" href="https://lihatlangsung.noromi.web.id/1:/Lambang%20dan%20Logo/Lambang%20Noromi%20Hijau.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
           {siteConfig.googleFontLinks.map(link => (
